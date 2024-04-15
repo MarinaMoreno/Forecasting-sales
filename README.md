@@ -8,9 +8,14 @@ So, in the following sections we will put ourselves in the shoes of a real store
 
 Final results are presented in a user friendly [report](https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36):
 
-[![Report Screenshot](Report_Screenshot.png)](https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36)
+<p align="center">
+ [![Report Screenshot](Report_Screenshot.png)](https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36)
+</p>
 
 The results of the best model found in [this project]() have been submitted to the [Kaggle competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/leaderboard)
  and currently the rating of the results is among the top 26% (190th position out of 726):
 
 [![Position Kaggle Competition](Position_Kaggle_Competition.png)](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/leaderboard)
+
+Click [here](https://nbviewer.org/github/MarinaMoreno/Forecasting-sales/blob/main/Forecast%20sales.ipynb) to properly visualize the internal links of the Jupiter notebook.
+
