@@ -12,6 +12,11 @@ Final results are presented in a user friendly [report](https://lookerstudio.goo
   <img src="https://github.com/MarinaMoreno/Forecasting-sales/blob/main/Report_Screenshot.png?raw=true" alt="Report Screenshot"/>
 </p>
 
+<div style="text-align:center">
+  [![Report_Screenshot](Report_Screenshot.png)](https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36)
+</div>
+
+
 The results of the best model found in [this project]() have been submitted to the [Kaggle competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/leaderboard)
  and currently the rating of the results is among the top 26% (190th position out of 726):
 
