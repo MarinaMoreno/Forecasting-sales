@@ -13,7 +13,7 @@ Final results are presented in a user friendly [report](https://lookerstudio.goo
 </p>
 
 <div style="text-align:center">
-  [![Report_Screenshot](Report_Screenshot.png)](https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36)
+[![Report Screenshot](https://github.com/MarinaMoreno/Forecasting-sales/blob/main/Report_Screenshot.png?raw=true)](https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36)
 </div>
 
 
