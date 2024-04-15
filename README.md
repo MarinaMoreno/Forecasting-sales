@@ -9,12 +9,10 @@ So, in the following sections we will put ourselves in the shoes of a real store
 Final results are presented in a user friendly [report](https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36):
 
 <p align="center">
+  <a href="https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36">
   <img src="https://github.com/MarinaMoreno/Forecasting-sales/blob/main/Report_Screenshot.png?raw=true" alt="Report Screenshot"/>
+  </a>
 </p>
-
-<div style="text-align:center">
-[![Report Screenshot](https://github.com/MarinaMoreno/Forecasting-sales/blob/main/Report_Screenshot.png?raw=true)](https://lookerstudio.google.com/reporting/a787fb72-8e31-49d8-978a-c9ee525fda36)
-</div>
 
 
 The results of the best model found in [this project]() have been submitted to the [Kaggle competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/leaderboard)
